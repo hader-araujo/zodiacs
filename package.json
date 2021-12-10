@@ -1,0 +1,14 @@
+{
+  "name": "zodiacs",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "nodemon --inspect ./app.js"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "httpclient": "^0.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {}
+}
